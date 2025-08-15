@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / React
+web/node_modules/
+web/dist/
+web/.vite/
+web/.cache/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
